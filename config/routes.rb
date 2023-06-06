@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  get 'pages/settings'
   get 'pages/homeloggedin'
   get 'pages/terms'
   get 'pages/forgotten'

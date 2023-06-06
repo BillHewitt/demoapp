@@ -1,4 +1,4 @@
 class PagesController < ApplicationController
-  def homeloggedin
+  def settings
   end
 end
